@@ -1,24 +1,14 @@
 {
     "docs": [
         {
-            "location": "/",
-            "text": "Welcome!\n\n\nABRPI training materials\n\n\nAntibiotic Resistant Pathogens Initiative\n\n\n\n\n\n\nThe Food and Health Flagship is an \nRDS-funded\n project to provide cloud-based data services and tools\nfor Australian Life Science Researchers to combine, analyse and interpret\ngenomic, transcriptomic, proteomic and metabolomic data. The data platform will incorporate the \nBioplatforms Australia Antibiotic Resistant Pathogens Initiative (ABRPI)\n.\n\n\n\n\n\n\nThis site contains tutorials for using the ABRPI\n\nMicrobial Genomics Virtual Lab\n (the mGVL) to perform bioinformatics\ntasks on bacterial \u201comics\u201d data, either on the Unix command line or using\nthe \nGalaxy\n system.\n\n\n\n\n\n\nTutorials are listed under the tabs in the top panel and are being added progressively.\n\n\n\n\n\n\nIf you wish to set up your own instance (version) of the mGVL, follow the instructions \nhere\n.\n\n\n\n\nNote: at the stage where you select options in the GVL Launcher window, go to \nShow advanced startup options\n and under \nFlavor\n select \nMicrobial GVL with Tutorial Indices\n. In this mGVL instance, you can use both Galaxy and command line tools. If you wish to use the command line tools on a different computer (e.g. your local computer), you would need to make sure the required tools are installed (e.g. Canu, Circlator, Pilon, SPAdes, etc.).\n\n\n\n\n\n\n\n\nFor more information about how to use the Microbial Genomics Virtual Lab and Galaxy, see \nhttp://www.genome.edu.au/",
+            "location": "/index_mcgill/",
+            "text": "Welcome!\n\n\nThis site contains tutorials for using the\n\nMicrobial Genomics Virtual Lab\n to perform bioinformatics\ntasks on bacterial \u201comics\u201d data, either on the Unix command line or using\nthe \nGalaxy\n system.",
             "title": "Home"
         },
         {
-            "location": "/#welcome",
-            "text": "",
+            "location": "/index_mcgill/#welcome",
+            "text": "This site contains tutorials for using the Microbial Genomics Virtual Lab  to perform bioinformatics\ntasks on bacterial \u201comics\u201d data, either on the Unix command line or using\nthe  Galaxy  system.",
             "title": "Welcome!"
-        },
-        {
-            "location": "/#abrpi-training-materials",
-            "text": "",
-            "title": "ABRPI training materials"
-        },
-        {
-            "location": "/#antibiotic-resistant-pathogens-initiative",
-            "text": "The Food and Health Flagship is an  RDS-funded  project to provide cloud-based data services and tools\nfor Australian Life Science Researchers to combine, analyse and interpret\ngenomic, transcriptomic, proteomic and metabolomic data. The data platform will incorporate the  Bioplatforms Australia Antibiotic Resistant Pathogens Initiative (ABRPI) .    This site contains tutorials for using the ABRPI Microbial Genomics Virtual Lab  (the mGVL) to perform bioinformatics\ntasks on bacterial \u201comics\u201d data, either on the Unix command line or using\nthe  Galaxy  system.    Tutorials are listed under the tabs in the top panel and are being added progressively.    If you wish to set up your own instance (version) of the mGVL, follow the instructions  here .   Note: at the stage where you select options in the GVL Launcher window, go to  Show advanced startup options  and under  Flavor  select  Microbial GVL with Tutorial Indices . In this mGVL instance, you can use both Galaxy and command line tools. If you wish to use the command line tools on a different computer (e.g. your local computer), you would need to make sure the required tools are installed (e.g. Canu, Circlator, Pilon, SPAdes, etc.).     For more information about how to use the Microbial Genomics Virtual Lab and Galaxy, see  http://www.genome.edu.au/",
-            "title": "Antibiotic Resistant Pathogens Initiative"
         },
         {
             "location": "/modules/workshop_overview/",
