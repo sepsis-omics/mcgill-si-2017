@@ -47,11 +47,19 @@
      <changefreq>daily</changefreq>
     </url>
         
+    
+
+    
+        
     <url>
      <loc>http://sepsis-omics.github.io/tutorials//modules/snippy/</loc>
      <lastmod>2017-06-19</lastmod>
      <changefreq>daily</changefreq>
     </url>
+        
+    
+
+    
         
     <url>
      <loc>http://sepsis-omics.github.io/tutorials//modules/abricate/</loc>
@@ -60,13 +68,13 @@
     </url>
         
     <url>
-     <loc>http://sepsis-omics.github.io/tutorials//modules/viral_genomes/</loc>
+     <loc>http://sepsis-omics.github.io/tutorials//modules/kraken/</loc>
      <lastmod>2017-06-19</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
-     <loc>http://sepsis-omics.github.io/tutorials//modules/kraken/</loc>
+     <loc>http://sepsis-omics.github.io/tutorials//modules/viral_genomes/</loc>
      <lastmod>2017-06-19</lastmod>
      <changefreq>daily</changefreq>
     </url>
