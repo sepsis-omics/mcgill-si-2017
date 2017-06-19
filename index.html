@@ -4,19 +4,19 @@
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        
+        <meta name="description" content="Tutorials for analysing bacterial omics data">
         <meta name="author" content="Anna Syme, Torsten Seemann">
-        <link rel="canonical" href="http://sepsis-omics.github.io/tutorials/index_mcgill/">
+        
         <link rel="shortcut icon" href="favicon.ico">
         
 
-	<title>Home - McGill 2017</title>
+	<title>McGill SI 2017</title>
 
-        <link href="../css/bootstrap-custom.min.css" rel="stylesheet">
-        <link href="../css/font-awesome-4.0.3.css" rel="stylesheet">
-        <link rel="stylesheet" href="../css/highlight.css">
-        <link href="../css/base.css" rel="stylesheet">
-        <link href="../css/sepsis.css" rel="stylesheet">
+        <link href="./css/bootstrap-custom.min.css" rel="stylesheet">
+        <link href="./css/font-awesome-4.0.3.css" rel="stylesheet">
+        <link rel="stylesheet" href="./css/highlight.css">
+        <link href="./css/base.css" rel="stylesheet">
+        <link href="./css/sepsis.css" rel="stylesheet">
 
         <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
         <!--[if lt IE 9]>
@@ -43,7 +43,7 @@
             </button>
 
             <!-- Main title -->
-            <a class="navbar-brand" href="./">McGill 2017</a>
+            <a class="navbar-brand" href=".">McGill SI 2017</a>
         </div>
 
         <!-- Expanded navigation -->
@@ -53,7 +53,7 @@
             
             
                 <li class="active">
-                    <a href="./">Home</a>
+                    <a href=".">Home</a>
                 </li>
             
             
@@ -64,37 +64,31 @@
                     
                         
 <li >
-    <a href="../modules/workshop_overview/">Genomics workshop overview</a>
+    <a href="modules/galaxy/">Starting with Galaxy</a>
 </li>
 
                     
                         
 <li >
-    <a href="../modules/galaxy/">Starting with Galaxy</a>
+    <a href="modules/data-dna/">Training data set</a>
 </li>
 
                     
                         
 <li >
-    <a href="../modules/data-dna/">Training dataset</a>
+    <a href="modules/fastqc/">Quality control</a>
 </li>
 
                     
                         
 <li >
-    <a href="../modules/fastqc/">Quality control</a>
+    <a href="modules/spades/">Genome assembly</a>
 </li>
 
                     
                         
 <li >
-    <a href="../modules/spades/">Genome assembly</a>
-</li>
-
-                    
-                        
-<li >
-    <a href="../modules/prokka/">Genome annotation</a>
+    <a href="modules/prokka/">Genome annotation</a>
 </li>
 
                     
@@ -109,7 +103,22 @@
                     
                         
 <li >
-    <a href="../modules/snippy/">Variant finding</a>
+    <a href="modules/snippy/">Variant finding</a>
+</li>
+
+                    
+                    </ul>
+                </li>
+            
+            
+            
+                <li class="dropdown">
+                    <a href="#" class="dropdown-toggle" data-toggle="dropdown">Day 3 <b class="caret"></b></a>
+                    <ul class="dropdown-menu">
+                    
+                        
+<li >
+    <a href="modules/viral_genomes/">Viral genome sequencing</a>
 </li>
 
                     
@@ -124,19 +133,13 @@
                     
                         
 <li >
-    <a href="../modules/abricate/">Finding antibiotic-resistance genes</a>
+    <a href="modules/abricate/">Finding antibiotic-resistance genes</a>
 </li>
 
                     
                         
 <li >
-    <a href="../modules/kraken/">Sample identification with Kraken</a>
-</li>
-
-                    
-                        
-<li >
-    <a href="../modules/viral_genomes/">Viral genome sequencing</a>
+    <a href="modules/kraken/">Sample identification with Kraken</a>
 </li>
 
                     
@@ -146,7 +149,7 @@
             
             
                 <li >
-                    <a href="../about/">About</a>
+                    <a href="about/">About</a>
                 </li>
             
             
@@ -165,15 +168,8 @@
                     </a>
                 </li>
                 <li >
-                    <a rel="prev" href="../modules/workshop_overview/">
+                    <a rel="prev" href="modules/galaxy/">
                         Next <i class="fa fa-arrow-right"></i>
-                    </a>
-                </li>
-                
-                <li>
-                    <a href="https://github.com/sepsis-omics/tutorials">
-                        
-                        sepsis-omics/tutorials
                     </a>
                 </li>
                 
@@ -196,16 +192,10 @@
 <h1 id="welcome">Welcome!</h1>
 <p>This site contains tutorials for using the
 <a href="http:/genome.edu.au/">Microbial Genomics Virtual Lab</a> to perform bioinformatics
-tasks on bacterial &ldquo;omics&rdquo; data, either on the Unix command line or using
-the <a href="http://galaxyproject.org/">Galaxy</a> system.</p>
-<!--!!! note
-    The site is under active development. Training modules are being developed
-    and added progressively. Please submit issues or suggestions to our
-    [Issue Tracker site](https://github.com/sepsis-omics/tutorials/issues).
--->
-
-<p><img alt="Logo" src="../media/logos/mol_gen_epi.jpg" />
-<img alt="Logo2" src="../media/logos/mcGill_logo.png" /></p></div>
+tasks on bacterial genome sequence 
+using the <a href="http://galaxyproject.org/">Galaxy</a> system.</p>
+<p><img alt="Logo" src="./media/logos/mol_gen_epi.jpg" />
+<img alt="Logo2" src="./media/logos/mcGill_logo.png" /></p></div>
         </div>
 
         <footer class="col-md-12">
@@ -216,13 +206,13 @@ the <a href="http://galaxyproject.org/">Galaxy</a> system.</p>
             <center>Documentation built with <a href="http://www.mkdocs.org/">MkDocs</a>.</center>
         </footer>
 
-        <script src="../js/jquery-1.10.2.min.js"></script>
-        <script src="../js/bootstrap-3.0.3.min.js"></script>
-        <script src="../js/highlight.pack.js"></script>
-        <script>var base_url = '..';</script>
-        <script data-main="../mkdocs/js/search.js" src="../mkdocs/js/require.js"></script>
-        <script src="../js/base.js"></script>
-        <script src="../js/details.js"></script>
+        <script src="./js/jquery-1.10.2.min.js"></script>
+        <script src="./js/bootstrap-3.0.3.min.js"></script>
+        <script src="./js/highlight.pack.js"></script>
+        <script>var base_url = '.';</script>
+        <script data-main="./mkdocs/js/search.js" src="./mkdocs/js/require.js"></script>
+        <script src="./js/base.js"></script>
+        <script src="./js/details.js"></script>
 
         <div class="modal" id="mkdocs_search_modal" tabindex="-1" role="dialog" aria-labelledby="Search Modal" aria-hidden="true">
             <div class="modal-dialog">

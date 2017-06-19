@@ -3,7 +3,7 @@
 
     
     <url>
-     <loc>http://sepsis-omics.github.io/tutorials//index_mcgill/</loc>
+     <loc>/</loc>
      <lastmod>2017-06-19</lastmod>
      <changefreq>daily</changefreq>
     </url>
@@ -12,37 +12,31 @@
     
         
     <url>
-     <loc>http://sepsis-omics.github.io/tutorials//modules/workshop_overview/</loc>
+     <loc>/modules/galaxy/</loc>
      <lastmod>2017-06-19</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
-     <loc>http://sepsis-omics.github.io/tutorials//modules/galaxy/</loc>
+     <loc>/modules/data-dna/</loc>
      <lastmod>2017-06-19</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
-     <loc>http://sepsis-omics.github.io/tutorials//modules/data-dna/</loc>
+     <loc>/modules/fastqc/</loc>
      <lastmod>2017-06-19</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
-     <loc>http://sepsis-omics.github.io/tutorials//modules/fastqc/</loc>
+     <loc>/modules/spades/</loc>
      <lastmod>2017-06-19</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
-     <loc>http://sepsis-omics.github.io/tutorials//modules/spades/</loc>
-     <lastmod>2017-06-19</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    <url>
-     <loc>http://sepsis-omics.github.io/tutorials//modules/prokka/</loc>
+     <loc>/modules/prokka/</loc>
      <lastmod>2017-06-19</lastmod>
      <changefreq>daily</changefreq>
     </url>
@@ -52,7 +46,7 @@
     
         
     <url>
-     <loc>http://sepsis-omics.github.io/tutorials//modules/snippy/</loc>
+     <loc>/modules/snippy/</loc>
      <lastmod>2017-06-19</lastmod>
      <changefreq>daily</changefreq>
     </url>
@@ -62,19 +56,23 @@
     
         
     <url>
-     <loc>http://sepsis-omics.github.io/tutorials//modules/abricate/</loc>
+     <loc>/modules/viral_genomes/</loc>
+     <lastmod>2017-06-19</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    
+
+    
+        
+    <url>
+     <loc>/modules/abricate/</loc>
      <lastmod>2017-06-19</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
-     <loc>http://sepsis-omics.github.io/tutorials//modules/kraken/</loc>
-     <lastmod>2017-06-19</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    <url>
-     <loc>http://sepsis-omics.github.io/tutorials//modules/viral_genomes/</loc>
+     <loc>/modules/kraken/</loc>
      <lastmod>2017-06-19</lastmod>
      <changefreq>daily</changefreq>
     </url>
@@ -83,7 +81,7 @@
 
     
     <url>
-     <loc>http://sepsis-omics.github.io/tutorials//about/</loc>
+     <loc>/about/</loc>
      <lastmod>2017-06-19</lastmod>
      <changefreq>daily</changefreq>
     </url>
