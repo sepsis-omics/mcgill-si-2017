@@ -4,7 +4,7 @@
     
     <url>
      <loc>/</loc>
-     <lastmod>2017-06-19</lastmod>
+     <lastmod>2017-06-20</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
@@ -12,32 +12,26 @@
     
         
     <url>
-     <loc>/modules/galaxy/</loc>
-     <lastmod>2017-06-19</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    <url>
      <loc>/modules/data-dna/</loc>
-     <lastmod>2017-06-19</lastmod>
+     <lastmod>2017-06-20</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>/modules/fastqc/</loc>
-     <lastmod>2017-06-19</lastmod>
+     <lastmod>2017-06-20</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>/modules/spades/</loc>
-     <lastmod>2017-06-19</lastmod>
+     <lastmod>2017-06-20</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>/modules/prokka/</loc>
-     <lastmod>2017-06-19</lastmod>
+     <lastmod>2017-06-20</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -47,17 +41,7 @@
         
     <url>
      <loc>/modules/snippy/</loc>
-     <lastmod>2017-06-19</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    
-
-    
-        
-    <url>
-     <loc>/modules/viral_genomes/</loc>
-     <lastmod>2017-06-19</lastmod>
+     <lastmod>2017-06-20</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -67,13 +51,41 @@
         
     <url>
      <loc>/modules/abricate/</loc>
-     <lastmod>2017-06-19</lastmod>
+     <lastmod>2017-06-20</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>/modules/kraken/</loc>
-     <lastmod>2017-06-19</lastmod>
+     <lastmod>2017-06-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    
+
+    
+        
+    <url>
+     <loc>/modules/trimmomatic/</loc>
+     <lastmod>2017-06-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>/modules/workflows/</loc>
+     <lastmod>2017-06-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>/modules/viral_genomes/</loc>
+     <lastmod>2017-06-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>/modules/artemis/</loc>
+     <lastmod>2017-06-20</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -82,7 +94,7 @@
     
     <url>
      <loc>/about/</loc>
-     <lastmod>2017-06-19</lastmod>
+     <lastmod>2017-06-20</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
